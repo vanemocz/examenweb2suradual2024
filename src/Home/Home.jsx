@@ -2,6 +2,8 @@ import "./Home.css"
 
 export function Home(){
 
+    //logica para leer la base de datos
+
 
     return(
 
@@ -29,7 +31,14 @@ export function Home(){
         </section>
 
        
-        
+        <section className="container">
+            <section className="row-cols-1 row-cols-md-5 g-3">
+                {
+                    //logica para recorrer la BD y generar 10 tarjetas con la informacion
+                    //de 10 barberos
+                }
+            </section>
+        </section>
 
 
         
