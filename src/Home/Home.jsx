@@ -34,8 +34,7 @@ export function Home(){
         <section className="container">
             <section className="row-cols-1 row-cols-md-5 g-3">
                 {
-                    //logica para recorrer la BD y generar 10 tarjetas con la informacion
-                    //de 10 barberos
+                    //logica para recorrer la BD y mostrar la informacion de los 10 barberos
                 }
             </section>
         </section>
